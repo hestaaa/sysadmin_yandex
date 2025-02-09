@@ -1,0 +1,1 @@
+ backend_server_ip: "{{ hostvars['vm_1']['ansible_host'] }}"
